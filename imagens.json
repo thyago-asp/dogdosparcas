@@ -1,0 +1,19 @@
+[
+
+    { "src": "./images/img-espaco/espaco1.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/espaco2.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/espaco3.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/espaco4.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/espaco5.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/espaco6.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/espaco7.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/espaco8.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/lanche1.jpg", "tipo": "lanche" },
+    { "src": "./images/img-espaco/lanche2.jpg", "tipo": "lanche" },
+    { "src": "./images/img-espaco/lanche3.jpg", "tipo": "lanche" },
+    { "src": "./images/img-espaco/lanche4.jpg", "tipo": "lanche" },
+    { "src": "./images/img-espaco/lanche5.jpg", "tipo": "lanche" },
+    { "src": "./images/img-espaco/bebida1.jpg", "tipo": "bebida" }
+
+
+]
