@@ -1,155 +1,153 @@
-[
-    [
-        {
-            "categoria": "bebida"
-        },
-        {
-            "nome": "Refrigerante",
-            "valorfinal": "5",
-            "descricao": "350ml",
-            "nomeCategoria": "Bebidas"
-        },
-        {
-            "nome": "Refrigerante",
-            "valorfinal": "6.5",
-            "descricao": "600ml",
-            "nomeCategoria": "Bebidas"
-        },
-        {
-            "nome": "Refrigerante",
-            "valorfinal": "8",
-            "descricao": "1 Litro",
-            "nomeCategoria": "Bebidas"
-        },
-        {
-            "nome": "Refrigerante",
-            "valorfinal": "10",
-            "descricao": "2 litros",
-            "nomeCategoria": "Bebidas"
-        },
-        {
-            "nome": "Chá",
-            "valorfinal": "5",
-            "descricao": "300 ml",
-            "nomeCategoria": "Bebidas"
-        },
-        {
-            "nome": "Tampico",
-            "valorfinal": "5",
-            "descricao": "500 ml",
-            "nomeCategoria": "Bebidas"
-        },
-        {
-            "nome": "Água c/ gás ou s/ gás",
-            "valorfinal": "3",
-            "descricao": "500ml",
-            "nomeCategoria": "Bebidas"
-        },
-        {
-            "nome": "Suco de Laranja 100% Natural e Puro",
-            "valorfinal": "8",
-            "descricao": "500 ml",
-            "nomeCategoria": "Bebidas"
-        }
-    ],
-    [
-        {
-            "categoria": "burger"
-        },
-        {
-            "nome": "Piazinho Burger",
-            "valorfinal": "12",
-            "descricao": "pão, maionese, hambúrguer de costela (200g), Alface Americana, mussarela.",
-            "nomeCategoria": "Hambúrgues"
-        },
-        {
-            "nome": "Mano's Burger",
-            "valorfinal": "15",
-            "descricao": "Pão, maionese, barbecue, Alface Americana, hambúrguer de costela (200g), cebola roxa, tomate, mussarela.",
-            "nomeCategoria": "Hambúrgues"
-        },
-        {
-            "nome": "Jhow's Burger",
-            "valorfinal": "16",
-            "descricao": "Pão, maionese, barbecue, frango, Alface Americana, hambúrguer de costela (200g), cebola roxa, tomate, mussarela.",
-            "nomeCategoria": "Hambúrgues"
-        },
-        {
-            "nome": "Brother's Burger",
-            "valorfinal": "17",
-            "descricao": "Pão, maionese, barbecue, Bacon, Alface Americana, hambúrguer de costela (200g), cebola roxa, tomate, mussarela.",
-            "nomeCategoria": "Hambúrgues"
-        },
-        {
-            "nome": "Brou's Burguer",
-            "valorfinal": "17",
-            "descricao": "Pão, maionese, barbecue, calabresa, Alface Americana, hambúrguer de costela (200g), cebola roxa, tomate, mussarela.",
-            "nomeCategoria": "Hambúrgues"
-        },
-        {
-            "nome": "Parça's Burger",
-            "valorfinal": "21",
-            "descricao": "Pão, maionese, barbecue, bacon, calabresa, Alface Americana, 2 hambúrguer de costela (150g), cebola roxa, tomate, mussarela, chedder.",
-            "nomeCategoria": "Hambúrgues"
-        }
-    ],
-    [
-        {
-            "categoria": "hotdog"
-        },
-        {
-            "nome": "Simples",
-            "valorfinal": "8",
-            "descricao": "Pão, maionese, 1 vina, milho, tomate, cebola, batata palha.",
-            "nomeCategoria": "HotDogs"
-        },
-        {
-            "nome": "Frango",
-            "valorfinal": "11",
-            "descricao": "Pão, 1 vina, frango, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
-            "nomeCategoria": "HotDogs"
-        },
-        {
-            "nome": "Bacon",
-            "valorfinal": "11",
-            "descricao": "Pão, 1 vina, Bacon, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
-            "nomeCategoria": "HotDogs"
-        },
-        {
-            "nome": "Calabresa",
-            "valorfinal": "11",
-            "descricao": "Pão, 1 vina, Calabresa, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
-            "nomeCategoria": "HotDogs"
-        },
-        {
-            "nome": "Vegetariano",
-            "valorfinal": "13",
-            "descricao": "Pão, 1 vina vegana, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
-            "nomeCategoria": "HotDogs"
-        },
-        {
-            "nome": "Mexicano",
-            "valorfinal": "13",
-            "descricao": "Pão, 1 vina, Carne moida apimentada, milho, tomate, cebola, Doritos, Chedder ou Catupiry ou Cream cheese.",
-            "nomeCategoria": "HotDogs"
-        },
-        {
-            "nome": "Dos Parças",
-            "valorfinal": "14",
-            "descricao": "Pão, 1 vina, Frango, Lombinho, Bacon, Calabresa, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
-            "nomeCategoria": "HotDogs"
-        },
-        {
-            "nome": "Strgonoff",
-            "valorfinal": "15",
-            "descricao": "Pão, 1 vina, Posta vermelha, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
-            "nomeCategoria": "HotDogs"
-        },
-        {
-            "nome": "Coração",
-            "valorfinal": "16",
-            "descricao": "Pão, 1 vina, cebola, tomate, milho, coração batata palha, cheddar, cream cheese ou Catupiry",
-            "nomeCategoria": "HotDogs"
-        }
-    ]
+[{
+        "categoria": "bebida",
+        "0": [
+
+            {
+                "nome": "Refrigerante",
+                "valorfinal": "5",
+                "descricao": "350ml",
+                "nomeCategoria": "Bebidas"
+            },
+            {
+                "nome": "Refrigerante",
+                "valorfinal": "6.5",
+                "descricao": "600ml",
+                "nomeCategoria": "Bebidas"
+            },
+            {
+                "nome": "Refrigerante",
+                "valorfinal": "8",
+                "descricao": "1 Litro",
+                "nomeCategoria": "Bebidas"
+            },
+            {
+                "nome": "Refrigerante",
+                "valorfinal": "10",
+                "descricao": "2 litros",
+                "nomeCategoria": "Bebidas"
+            },
+            {
+                "nome": "Chá",
+                "valorfinal": "5",
+                "descricao": "300 ml",
+                "nomeCategoria": "Bebidas"
+            },
+            {
+                "nome": "Tampico",
+                "valorfinal": "5",
+                "descricao": "500 ml",
+                "nomeCategoria": "Bebidas"
+            },
+            {
+                "nome": "Água c/ gás ou s/ gás",
+                "valorfinal": "3",
+                "descricao": "500ml",
+                "nomeCategoria": "Bebidas"
+            },
+            {
+                "nome": "Suco de Laranja 100% Natural e Puro",
+                "valorfinal": "8",
+                "descricao": "500 ml",
+                "nomeCategoria": "Bebidas"
+            }
+        ]
+    },
+    {
+        "categoria": "burger",
+        "1": [{
+                "nome": "Piazinho Burger",
+                "valorfinal": "12",
+                "descricao": "pão, maionese, hambúrguer de costela (200g), Alface Americana, mussarela.",
+                "nomeCategoria": "Hambúrgues"
+            },
+            {
+                "nome": "Mano's Burger",
+                "valorfinal": "15",
+                "descricao": "Pão, maionese, barbecue, Alface Americana, hambúrguer de costela (200g), cebola roxa, tomate, mussarela.",
+                "nomeCategoria": "Hambúrgues"
+            },
+            {
+                "nome": "Jhow's Burger",
+                "valorfinal": "16",
+                "descricao": "Pão, maionese, barbecue, frango, Alface Americana, hambúrguer de costela (200g), cebola roxa, tomate, mussarela.",
+                "nomeCategoria": "Hambúrgues"
+            },
+            {
+                "nome": "Brother's Burger",
+                "valorfinal": "17",
+                "descricao": "Pão, maionese, barbecue, Bacon, Alface Americana, hambúrguer de costela (200g), cebola roxa, tomate, mussarela.",
+                "nomeCategoria": "Hambúrgues"
+            },
+            {
+                "nome": "Brou's Burguer",
+                "valorfinal": "17",
+                "descricao": "Pão, maionese, barbecue, calabresa, Alface Americana, hambúrguer de costela (200g), cebola roxa, tomate, mussarela.",
+                "nomeCategoria": "Hambúrgues"
+            },
+            {
+                "nome": "Parça's Burger",
+                "valorfinal": "21",
+                "descricao": "Pão, maionese, barbecue, bacon, calabresa, Alface Americana, 2 hambúrguer de costela (150g), cebola roxa, tomate, mussarela, chedder.",
+                "nomeCategoria": "Hambúrgues"
+            }
+        ]
+    },
+    {
+        "categoria": "hotdog",
+        "2": [{
+                "nome": "Simples",
+                "valorfinal": "8",
+                "descricao": "Pão, maionese, 1 vina, milho, tomate, cebola, batata palha.",
+                "nomeCategoria": "HotDogs"
+            },
+            {
+                "nome": "Frango",
+                "valorfinal": "11",
+                "descricao": "Pão, 1 vina, frango, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
+                "nomeCategoria": "HotDogs"
+            },
+            {
+                "nome": "Bacon",
+                "valorfinal": "11",
+                "descricao": "Pão, 1 vina, Bacon, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
+                "nomeCategoria": "HotDogs"
+            },
+            {
+                "nome": "Calabresa",
+                "valorfinal": "11",
+                "descricao": "Pão, 1 vina, Calabresa, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
+                "nomeCategoria": "HotDogs"
+            },
+            {
+                "nome": "Vegetariano",
+                "valorfinal": "13",
+                "descricao": "Pão, 1 vina vegana, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
+                "nomeCategoria": "HotDogs"
+            },
+            {
+                "nome": "Mexicano",
+                "valorfinal": "13",
+                "descricao": "Pão, 1 vina, Carne moida apimentada, milho, tomate, cebola, Doritos, Chedder ou Catupiry ou Cream cheese.",
+                "nomeCategoria": "HotDogs"
+            },
+            {
+                "nome": "Dos Parças",
+                "valorfinal": "14",
+                "descricao": "Pão, 1 vina, Frango, Lombinho, Bacon, Calabresa, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
+                "nomeCategoria": "HotDogs"
+            },
+            {
+                "nome": "Strgonoff",
+                "valorfinal": "15",
+                "descricao": "Pão, 1 vina, Posta vermelha, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
+                "nomeCategoria": "HotDogs"
+            },
+            {
+                "nome": "Coração",
+                "valorfinal": "16",
+                "descricao": "Pão, 1 vina, cebola, tomate, milho, coração batata palha, cheddar, cream cheese ou Catupiry",
+                "nomeCategoria": "HotDogs"
+            }
+        ]
+    }
 ]

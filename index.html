@@ -536,52 +536,61 @@
             function cardapiohtml(response) {
 
                 arr = [];
+
+                var concatString = '';
                 for (let i = 0; i < response.length; i++) {
-                    if (!response[i].categoria) {
-                        const element = response[i];
+
+                    if (!response.categoria) {
+                        const element = response;
+
+                        var converterString = parseFloat(response[i].valorfinal);
+                        var convertidoMoeda = converterString.toLocaleString('pt-br', {
+                            style: 'currency',
+                            currency: 'BRL'
+                        });
 
                         var a = `<div class="item-mainmenu m-b-36">
-									<div class="flex-w flex-b m-b-3">
-										<a href="#" class="name-item-mainmenu txt21">
-											${element.nome}
-										</a>
+                					<div class="flex-w flex-b m-b-3">
+                						<a href="#" class="name-item-mainmenu txt21">
+                							${element[i].nome}
+                						</a>
 
-										<div class="line-item-mainmenu bg3-pattern"></div>
+                						<div class="line-item-mainmenu bg3-pattern"></div>
 
-										<div class="price-item-mainmenu txt22">
-											R$ ${response[i].valorfinal},00
-										</div>
-									</div>
+                						<div class="price-item-mainmenu txt22">
+                							${convertidoMoeda}
+                						</div>
+                					</div>
 
-									<span class="info-item-mainmenu txt23">
-										${response[i].descricao}
-									</span>
-								</div>
-								`
-                        arr[i] = a;
+                					<span class="info-item-mainmenu txt23">
+                						${response[i].descricao}
+                					</span>
+                				</div>
+                                `
+
+                        concatString += a;
                     }
 
                 }
-                var b = '';
-                var concatString = b.concat(arr);
 
-                return concatString.replace(/\,/g, '');
+                return concatString;
 
             }
 
             function cardapio(res) {
                 i = 0;
+
                 res.forEach(element => {
 
-                    if (element[i].categoria) {
+                    if (element.categoria) {
                         var title = `<div class="col-sm-5">
-								<div class="wrap-item-mainmenu p-b-22">	
-									<h3 class="tit-mainmenu tit10 p-b-25">${element[i].categoria}</h3>
-								</div>
-							`
+                    			<div class="wrap-item-mainmenu p-b-22">	
+                    				<h3 class="tit-mainmenu tit10 p-b-25">${element.categoria}</h3>
+                    			</div>
+                    		`
                     }
 
-                    $('#cardapio').append(title + cardapiohtml(element) + '</div>');
+                    $('#cardapio').append(title + cardapiohtml(element[i++]) + '</div>');
                 });
 
 
@@ -596,7 +605,6 @@
                 	</div>
 					`
                     $("#espacoImg").append(img);
-                    console.log(img);
                 })
             }
 
