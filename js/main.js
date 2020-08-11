@@ -165,18 +165,29 @@
     });
 
     // init Isotope
-    $(window).on('load', function() {
-        var $grid = $topeContainer.each(function() {
-            $(this).isotope({
-                itemSelector: '.isotope-item',
-                percentPosition: true,
-                animationEngine: 'best-available',
-                masonry: {
-                    columnWidth: '.isotope-item'
-                }
-            });
-        });
-    });
+    // function initIsotope() {
+    //     return $(window).on('load', function() {
+    //         var $grid = $topeContainer.each(function() {
+
+    //             $(this).isotope({
+    //                 itemSelector: '.isotope-item',
+    //                 percentPosition: true,
+    //                 layoutMode: 'masonry',
+    //                 animationEngine: 'best-available',
+    //                 masonry: {
+    //                     columnWidth: '.isotope-item'
+    //                 },
+    //                 initLayout: false,
+    //             });
+    //         });
+    //         $grid.isotope('on', 'arrangeComplete', function(item) {
+    //             console.log(item)
+    //             console.log('arrange is complete');
+    //         });
+    //         $grid.isotope();
+
+    //     });
+    // }
 
     var labelGallerys = $('.label-gallery');
 
