@@ -121,29 +121,30 @@
 
             <!-- Gallery -->
             <div class="wrap-gallery-sidebar flex-w">
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/photo-gallery-01.jpg" data-lightbox="gallery-footer">
-                    <img src="images/photo-gallery-thumb-01.jpg" alt="GALLERY">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco1.jpg" data-lightbox="gallery-footer">
+                    <img src="images/img-espaco/espaco1.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/photo-gallery-02.jpg" data-lightbox="gallery-footer">
-                    <img src="images/photo-gallery-thumb-02.jpg" alt="GALLERY">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco2.jpg" data-lightbox="gallery-footer">
+                    <img src="images/img-espaco/espaco2.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/photo-gallery-03.jpg" data-lightbox="gallery-footer">
-                    <img src="images/photo-gallery-thumb-03.jpg" alt="GALLERY">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/bebida1.jpg" data-lightbox="gallery-footer">
+                    <img src="images/img-espaco/bebida1.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/photo-gallery-05.jpg" data-lightbox="gallery-footer">
-                    <img src="images/photo-gallery-thumb-05.jpg" alt="GALLERY">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/lanche1.jpg" data-lightbox="gallery-footer">
+                    <img src="images/img-espaco/lanche1.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/photo-gallery-06.jpg" data-lightbox="gallery-footer">
-                    <img src="images/photo-gallery-thumb-06.jpg" alt="GALLERY">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco6.jpg" data-lightbox="gallery-footer">
+                    <img src="images/img-espaco/espaco6.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/photo-gallery-07.jpg" data-lightbox="gallery-footer">
-                    <img src="images/photo-gallery-thumb-07.jpg" alt="GALLERY">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco7.jpg" data-lightbox="gallery-footer">
+                    <img src="images/img-espaco/espaco7.jpg" alt="GALLERY">
                 </a>
+
 
 
             </div>
@@ -376,6 +377,9 @@
                     </ul>
 
                     <!-- - -->
+
+                </div>
+                <div class="col-sm-4 p-t-50">
                     <h4 class="txt13 m-b-32">
                         horario de funcionamento
                     </h4>
@@ -390,7 +394,6 @@
                         </li>
                     </ul>
                 </div>
-
                 <div class="col-sm-6 col-md-4 p-t-50">
                     <!-- - -->
                     <h4 class="txt13 m-b-38">
@@ -446,7 +449,7 @@
                     </div>
 
                     <div class="txt17 p-r-20 p-t-5 p-b-5">
-                        Copyright &copy; 2018 All rights reserved | This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                        Copyright &copy; <span id="data"></span>| Todos direitos reservados à <a href="#" target="_blank">Fesper</a>
                     </div>
                 </div>
             </div>
@@ -513,6 +516,11 @@
     <script src="js/main.js"></script>
     <script>
         $(document).ready(() => {
+
+            function dataAno() {
+                return new Date().getFullYear();
+            }
+            $("#data").text(dataAno())
 
             function cardapiohtml(response) {
 
