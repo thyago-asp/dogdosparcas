@@ -181,10 +181,8 @@
     //             initLayout: false,
     //         });
     //     });
-    //     $grid.isotope('on', 'arrangeComplete', function(item) {
-    //         console.log(item)
-    //         console.log('arrange is complete');
-    //     });
+
+    //     $grid.isotope('on', 'arrangeComplete');
     //     $grid.isotope();
 
     // });

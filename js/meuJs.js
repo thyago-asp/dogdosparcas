@@ -1,7 +1,5 @@
 $(document).ready(function() {
-    // (function initIsotope() {
 
-    // })()
 
 
     function dataAno() {
@@ -89,11 +87,31 @@ $(document).ready(function() {
             `
             $("#espacoImg").append(img);
         });
-        $(window).on('load', iniciarIsotope());
+        var $topeContainer = $('.isotope-grid');
+        $(window).on('load', function() {
+            var $grid = $topeContainer.each(function() {
+
+                $(this).isotope({
+                    itemSelector: '.isotope-item',
+                    percentPosition: true,
+                    layoutMode: 'masonry',
+                    animationEngine: 'best-available',
+                    masonry: {
+                        columnWidth: '.isotope-item'
+                    },
+                    // initLayout: false,
+                });
+
+            });
+
+            // $grid.isotope('on', 'arrangeComplete');
+            // $grid.isotope();
+
+        });
+
+    };
 
 
-
-    }
 
     $.getJSON('./imagens.json', (res) => {
         imagensEspaco(res);
@@ -104,8 +122,6 @@ $(document).ready(function() {
 
     function iniciarIsotope() {
         var $topeContainer = $('.isotope-grid');
-        console.log($topeContainer);
-        // $(window).on('load', function() {
         var $grid = $topeContainer.each(function() {
 
             $(this).isotope({
@@ -118,14 +134,15 @@ $(document).ready(function() {
                 },
                 initLayout: false,
             });
-        });
-        $grid.isotope('on', 'arrangeComplete', function(item) {
-            console.log(item)
-            console.log('arrange is complete');
+
         });
 
-        $grid.isotope();
-        // });
+        $grid.on('arrangeComplete', function(item) {
+
+            // console.log(item);
+        });
+        return $grid.isotope();
     }
 
-})
+
+});
