@@ -87,7 +87,7 @@
             {
                 "nome": "Parça's Burger",
                 "valorfinal": "21",
-                "descricao": "Pão, maionese, barbecue, bacon, calabresa, Alface Americana, 2 hambúrguer de costela (150g), cebola roxa, tomate, mussarela, chedder.",
+                "descricao": "Pão, maionese, barbecue, bacon, calabresa, Alface Americana, 2 hambúrguer de costela (150g), cebola roxa, tomate, mussarela, Cheddar.",
                 "nomeCategoria": "Hambúrgues"
             }
         ]
@@ -103,43 +103,43 @@
             {
                 "nome": "Frango",
                 "valorfinal": "11",
-                "descricao": "Pão, 1 vina, frango, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
+                "descricao": "Pão, 1 vina, frango, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Bacon",
                 "valorfinal": "11",
-                "descricao": "Pão, 1 vina, Bacon, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
+                "descricao": "Pão, 1 vina, Bacon, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Calabresa",
                 "valorfinal": "11",
-                "descricao": "Pão, 1 vina, Calabresa, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
+                "descricao": "Pão, 1 vina, Calabresa, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Vegetariano",
                 "valorfinal": "13",
-                "descricao": "Pão, 1 vina vegana, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
+                "descricao": "Pão, 1 vina vegana, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Mexicano",
                 "valorfinal": "13",
-                "descricao": "Pão, 1 vina, Carne moida apimentada, milho, tomate, cebola, Doritos, Chedder ou Catupiry ou Cream cheese.",
+                "descricao": "Pão, 1 vina, Carne moida apimentada, milho, tomate, cebola, Doritos, Cheddar ou Catupiry ou Cream cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Dos Parças",
                 "valorfinal": "14",
-                "descricao": "Pão, 1 vina, Frango, Lombinho, Bacon, Calabresa, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
+                "descricao": "Pão, 1 vina, Frango, Lombinho, Bacon, Calabresa, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
-                "nome": "Strgonoff",
+                "nome": "Strogonoff ",
                 "valorfinal": "15",
-                "descricao": "Pão, 1 vina, Posta vermelha, milho, tomate, cebola, batata palha, Chedder ou Catupiry ou Cream cheese.",
+                "descricao": "Pão, 1 vina, Posta vermelha, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {

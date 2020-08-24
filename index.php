@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Home</title>
+    <title>Os Parças | Dog - Burger - Beer</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--===============================================================================================-->
@@ -35,7 +35,6 @@
 </head>
 
 <body class="animsition">
-
     <!-- Header -->
     <header>
         <!-- Header desktop -->
@@ -44,8 +43,9 @@
                 <div class="wrap_header trans-0-3">
                     <!-- Logo -->
                     <div class="logo">
-                        <a href="index.html">
-                            <img src="images/icons/contatoLogo.png" alt="IMG-LOGO" data-logofixed="images/icons/contatoLogo.png">
+                        <a href="/">
+                            <img src="images/icons/contatoLogo.png" alt="IMG-LOGO"
+                                data-logofixed="images/icons/contatoLogo.png">
                         </a>
                     </div>
 
@@ -74,9 +74,10 @@
 
                     <!-- Social -->
                     <div class="social flex-w flex-l-m p-r-20">
-                        <a href="https://www.instagram.com/osparcas.dog.burger/" target="_blank" class="fs-15 c-white"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        <a href="https://www.instagram.com/osparcas.dog.burger/" target="_blank"
+                            class="fs-15 c-white"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                         <a href="https://www.facebook.com/hotdogdosparcas/" target="_blank" class="fs-15 c-white"><i
-								class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
+                                class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
 
 
                         <button class="btn-show-sidebar m-l-33 trans-0-4"></button>
@@ -121,27 +122,33 @@
 
             <!-- Gallery -->
             <div class="wrap-gallery-sidebar flex-w">
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco1.jpg" data-lightbox="gallery-footer">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco1.jpg"
+                    data-lightbox="gallery-footer">
                     <img src="images/img-espaco/espaco1.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco2.jpg" data-lightbox="gallery-footer">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco2.jpg"
+                    data-lightbox="gallery-footer">
                     <img src="images/img-espaco/espaco2.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/bebida1.jpg" data-lightbox="gallery-footer">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/bebida1.jpg"
+                    data-lightbox="gallery-footer">
                     <img src="images/img-espaco/bebida1.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/lanche1.jpg" data-lightbox="gallery-footer">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/lanche1.jpg"
+                    data-lightbox="gallery-footer">
                     <img src="images/img-espaco/lanche1.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco6.jpg" data-lightbox="gallery-footer">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco6.jpg"
+                    data-lightbox="gallery-footer">
                     <img src="images/img-espaco/espaco6.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco7.jpg" data-lightbox="gallery-footer">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco7.jpg"
+                    data-lightbox="gallery-footer">
                     <img src="images/img-espaco/espaco7.jpg" alt="GALLERY">
                 </a>
 
@@ -158,19 +165,23 @@
 
                 <div class="item-slick1 item3-slick1" style="background-image: url(images/fundoPrincipal.jpg);">
                     <div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
-                        <span class="caption1-slide1 txt1 t-center animated visible-false m-b-15" data-appear="rotateInDownLeft">
-							Bem vindo <br> ao
-						</span>
+                        <span class="caption1-slide1 txt1 t-center animated visible-false m-b-15"
+                            data-appear="rotateInDownLeft">
+                            Bem vindo ao
+                        </span>
 
-                        <h2 class="caption2-slide1 tit1 t-center animated visible-false m-b-37" data-appear="rotateInUpRight">
-                            dog dos parças
-                        </h2>
+                        <!--<h2 class="caption2-slide1 tit1 t-center animated visible-false m-b-37" data-appear="rotateInUpRight">
+                            Os parças
+                        </h2> -->
+
+                        <img src="images/logo.png" id="id_logo" alt="IMG-LOGO"
+                            data-logofixed="images/icons/contatoLogo.png">
 
                         <div class="wrap-btn-slide1 animated visible-false" data-appear="rotateIn">
                             <!-- Button1 -->
                             <a href="#cardapioAncora" class="btn1 flex-c-m size1 txt3 trans-0-4">
-								Cardápio
-							</a>
+                                Cardápio
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -182,27 +193,35 @@
     </section>
 
     <!-- Welcome -->
-    <section class="section-welcome bg-white p-t-120 p-b-105">
+    <section class="section-welcome bg-white p-t-50 ">
+        <h3 class="tit2 t-center">
+            DOG BURGER BEER
+        </h3>
+       
+        <h3 class="tit5 t-center m-t-2">Bem-vindo</h3>
         <div class="container">
-            <div class="row">
+            
+
+            <div class="row p-t-50">
                 <div class="col-md-6 p-t-45 p-b-30">
                     <div class="wrap-text-welcome t-center">
-                        <h3 class="tit2 t-center">
-                            DOG BURGER BEER
-                        </h3>
-                        <h3 class="tit3 t-center m-b-35 m-t-5">
-                            Bem vindo
-                        </h3>
+                        
 
+                        <h5 class="tit2 t-center">Missão</h5>
                         <p class="t-center m-b-22 size3 m-l-r-auto">
-                            Entre e seja feliz com o melhor hotdog de Curitiba e região, quando provar não irá comer em outro lugar.
+                            Trazer a melhor experiência em lanches para nosso clientes.</p>
+                        <h5 class="tit2 t-center">Visão</h5>
+                        <p class="t-center m-b-22 size3 m-l-r-auto">Conquistar individualmente cada pessoa com o melhor lanche e o melhor atendimento.</p>
+                        <h5 class="tit2 t-center">Valores</h5>
+                        <p class="t-center m-b-22 size3 m-l-r-auto">Conquistar individualmente cada pessoa com o melhor lanche e o melhor atendimento.
+                        <br>Compromisso em qualidade e rapidez no serviço.
                         </p>
 
                     </div>
                 </div>
 
                 <div class="col-md-6 p-b-30">
-                    <div class="wrap-pic-welcome size2 bo-rad-10 hov-img-zoom m-l-r-auto">
+                    <div class="wrap-pic-welcome size3 bo-rad-10 hov-img-zoom m-l-r-auto">
                         <img src="images/img/hamburger.jpg" alt="IMG-OUR">
                     </div>
                 </div>
@@ -237,18 +256,18 @@
                         p-l-15 p-r-15 
                         m-b-60">
                 <button class="label-gallery txt26 trans-0-4 is-actived" data-filter="*">
-					Todas as fotos
-				</button>
+                    Todas as fotos
+                </button>
 
                 <button class="label-gallery txt26 trans-0-4" data-filter=".espaco">
-					Espaço
-				</button>
+                    Espaço
+                </button>
 
                 <button class="label-gallery txt26 trans-0-4" data-filter=".lanche">
-					Lanches
+                    Lanches
                 </button>
                 <button class="label-gallery txt26 trans-0-4" data-filter=".bebida">
-					Bebidas
+                    Bebidas
                 </button>
 
             </div>
@@ -266,8 +285,10 @@
         <h3 class="tit3 t-center m-b-35 m-t-2">Contato</h3>
         <div class="container">
             <div class="map bo8 bo-rad-10 of-hidden">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3603.879132963184!2d-49.25409368547164!3d-25.40885613827931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI0JzMxLjkiUyA0OcKwMTUnMDYuOSJX!5e0!3m2!1spt-BR!2sbr!4v1595008082538!5m2!1spt-BR!2sbr"
-                    width="100%" height="600px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3603.879132963184!2d-49.25409368547164!3d-25.40885613827931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI0JzMxLjkiUyA0OcKwMTUnMDYuOSJX!5e0!3m2!1spt-BR!2sbr!4v1595008082538!5m2!1spt-BR!2sbr"
+                    width="100%" height="600px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+                    tabindex="0"></iframe>
                 <!-- <div id="google_map" data-map-x="-25.408861" data-map-y="-49.251905" data-pin="images/icons/icon-position-map.png" data-scrollwhell="0" data-draggable="1"></div> -->
             </div>
         </div>
@@ -283,12 +304,12 @@
 
                         <div class="flex-col-l">
                             <span class="txt5 p-b-10">
-								Localização
-							</span>
+                                Localização
+                            </span>
 
                             <span class="txt23 size38">
-								Av. Munhoz da Rocha, 787 - Juvevê, Curitiba - PR, 80035-000
-							</span>
+                                Av. Munhoz da Rocha, 787 - Juvevê, Curitiba - PR, 80035-000
+                            </span>
                         </div>
                     </div>
                 </div>
@@ -302,14 +323,14 @@
 
                         <div class="flex-col-l">
                             <span class="txt5 p-b-10">
-								Whatsapp
-							</span>
+                                Whatsapp
+                            </span>
 
                             <span class="txt23 size38">
-								<a class="pedido"
-									href="https://api.whatsapp.com/send?phone=5541998353610&text=Realize%20seu%20Pedido"
-									target="_blank">(41) 9 9835-3610</a>
-							</span>
+                                <a class="pedido"
+                                    href="https://api.whatsapp.com/send?phone=5541998353610&text=Boa%20noite,%20gostaria%20de%20pedir%20um%20lanche..."
+                                    target="_blank">(41) 9 9835-3610</a>
+                            </span>
                         </div>
                     </div>
                 </div>
@@ -323,12 +344,12 @@
 
                         <div class="flex-col-l">
                             <span class="txt5 p-b-10">
-								horario de funcionamento
-							</span>
+                                horario de funcionamento
+                            </span>
 
-                            <span class="txt23 size38">
-								09:30 – 22:00 PM <br> segunda a sexta
-							</span>
+                            <span class="txt23 center size38">
+                                17:30 – 23:30 PM <br>(Pode ter alteração por conta do decreto do COVID-19)
+                            </span>
                         </div>
                     </div>
                 </div>
@@ -347,17 +368,21 @@
 
                     <ul class="m-b-70">
                         <li class="txt14 m-b-14">
-                            <i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i> Av. Munhoz da Rocha, 787 - Juvevê, Curitiba - PR, 80035-000
+                            <i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i> Av. Munhoz
+                            da Rocha, 787 - Juvevê, Curitiba - PR, 80035-000
                         </li>
 
                         <li class="txt14 m-b-14">
 
-                            <a class="pedido" href="https://api.whatsapp.com/send?phone=5541998353610&text=Realize%20seu%20Pedido" target="_blank"><i class="fa fa-phone fs-16 dis-inline-block size19"
-									aria-hidden="true"></i>(41) 9 9835-3610</a>
+                            <a class="pedido"
+                                href="https://api.whatsapp.com/send?phone=5541998353610&text=Boa%20noite,%20gostaria%20de%20pedir%20um%20lanche.."
+                                target="_blank"><i class="fa fa-phone fs-16 dis-inline-block size19"
+                                    aria-hidden="true"></i>(41) 9 9835-3610</a>
                         </li>
 
                         <li class="txt14 m-b-14">
-                            <i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i> contato@dogdosparcas.com.br
+                            <i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i>
+                            contato@osparcas.com
                         </li>
                     </ul>
 
@@ -371,7 +396,7 @@
 
                     <ul>
                         <li class="txt14">
-                            09:30 – 22:00 PM
+                            17:30 – 23:30 PM <br>(Pode ter alteração por conta do decreto do COVID-19)
                         </li>
 
                         <li class="txt14">
@@ -387,34 +412,42 @@
 
                     <!-- Gallery footer -->
                     <div class="wrap-gallery-footer flex-w">
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco1.jpg" data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco1.jpg"
+                            data-lightbox="gallery-footer">
                             <img src="images/img-espaco/espaco1.jpg" alt="GALLERY">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco2.jpg" data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco2.jpg"
+                            data-lightbox="gallery-footer">
                             <img src="images/img-espaco/espaco2.jpg" alt="GALLERY">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/bebida1.jpg" data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/bebida1.jpg"
+                            data-lightbox="gallery-footer">
                             <img src="images/img-espaco/bebida1.jpg" alt="GALLERY">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco4.jpg" data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco4.jpg"
+                            data-lightbox="gallery-footer">
                             <img src="images/img-espaco/espaco4.jpg" alt="GALLERY">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/lanche1.jpg" data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/lanche1.jpg"
+                            data-lightbox="gallery-footer">
                             <img src="images/img-espaco/lanche1.jpg" alt="GALLERY">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco6.jpg" data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco6.jpg"
+                            data-lightbox="gallery-footer">
                             <img src="images/img-espaco/espaco6.jpg" alt="GALLERY">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco7.jpg" data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco7.jpg"
+                            data-lightbox="gallery-footer">
                             <img src="images/img-espaco/espaco7.jpg" alt="GALLERY">
                         </a>
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco8.jpg" data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco8.jpg"
+                            data-lightbox="gallery-footer">
                             <img src="images/img-espaco/espaco8.jpg" alt="GALLERY">
                         </a>
                     </div>
@@ -427,14 +460,16 @@
             <div class="container">
                 <div class="flex-sb-m flex-w p-t-22 p-b-22">
                     <div class="p-t-5 p-b-5">
-                        <a href="https://www.instagram.com/osparcas.dog.burger/" target="_blank" class="fs-15 c-white"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        <a href="https://www.instagram.com/osparcas.dog.burger/" target="_blank"
+                            class="fs-15 c-white"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                         <a href="https://www.facebook.com/hotdogdosparcas/" target="_blank" class="fs-15 c-white"><i
-								class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
+                                class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
 
                     </div>
 
                     <div class="txt17 p-r-20 p-t-5 p-b-5">
-                        Copyright &copy; <span id="data"></span>| Todos direitos reservados à <a href="#" target="_blank">Fesper</a>
+                        Copyright &copy; <span id="data"></span>| Todos direitos reservados à Os Parças Dog e Burger | Desenvolvido por <a href="https://www.fesper.com.br"
+                            target="_blank">Fesper</a>
                     </div>
                 </div>
             </div>
@@ -445,11 +480,10 @@
     <!-- Back to top -->
     <div class="btn-back-to-top bg0-hov" id="myBtn">
         <span class="symbol-btn-back-to-top">
-            <a class="whatsapp"
-			   href="https://api.whatsapp.com/send?phone=5541998353610&text=Realize%20seu%20Pedido"
-               target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i>
+            <a class="whatsapp" href="https://api.whatsapp.com/send?phone=5541998353610&text=Boa%20noite,%20gostaria%20de%20pedir%20um%20lanche..."
+                target="_blank">  <i class="fa fa-whatsapp" aria-hidden="true"></i>   Faça o seu pedido
             </a>
-		</span>
+        </span>
     </div>
 
     <!-- Container Selection1 -->
@@ -464,7 +498,8 @@
             <div class="wrap-video-mo-01">
                 <div class="w-full wrap-pic-w op-0-0"><img src="images/icons/video-16-9.jpg" alt="IMG"></div>
                 <div class="video-mo-01">
-                    <iframe src="https://www.youtube.com/embed/5k1hSu2gdKE?rel=0&amp;showinfo=0" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/5k1hSu2gdKE?rel=0&amp;showinfo=0"
+                        allowfullscreen></iframe>
                 </div>
             </div>
         </div>

@@ -89,6 +89,10 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
     src: url('../fonts/notosans/NotoSans-Regular.ttf');
 }
 
+@font-face {
+    font-family: flashb;
+    src: url('../fonts/flashb/flashb.ttf');
+}
 
 /*[ RESTYLE TAG ]
 ///////////////////////////////////////////////////////////
@@ -342,12 +346,12 @@ iframe {
     margin-left: auto;
     margin-right: auto;
     position: fixed;
-    width: 50px;
+    width: 200px;
     height: 50px;
     bottom: 40px;
     right: 40px;
-    background-color: black;
-    opacity: 0.5;
+    background-color: #42d612;
+    opacity: 0.8;
     justify-content: center;
     align-items: center;
     z-index: 1000;
@@ -1626,7 +1630,7 @@ body {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: rgba(236, 29, 37, 0.8);
+    background-color: rgb(233 124 6 / 75%);
     opacity: 0;
 }
 

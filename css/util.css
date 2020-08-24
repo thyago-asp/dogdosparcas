@@ -3058,9 +3058,14 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 */
 .txt1 {
 	font-family: Courgette;
-	font-size: 60px;
+	font-size: 30px;
 	line-height: 1.1;
 	color: white;
+}
+
+#id_logo{
+	width: 270px;
+	margin-bottom: 13px;
 }
 
 .txt2 {
@@ -3566,7 +3571,7 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 .bg1 {background-color: #222222;}
 .bg2 {background-color: #111111;}
 
-.bg0-hov:hover {background-color: #ec1d25;}
+.bg0-hov:hover {background-color: #35c107;}
 
 .bg1-overlay {background-color: rgba(0,0,0,0.35);}
 
