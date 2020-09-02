@@ -1,41 +1,51 @@
 [{
         "categoria": "bebida",
-        "0": [
-
-            {
-                "nome": "Refrigerante",
+        "0": [{
+                "nome": "Refrigerante 350ml",
                 "valorfinal": "5",
                 "descricao": "350ml",
                 "nomeCategoria": "Bebidas"
             },
             {
-                "nome": "Refrigerante",
+                "nome": "Refrigerante 600ml",
                 "valorfinal": "6.5",
                 "descricao": "600ml",
                 "nomeCategoria": "Bebidas"
             },
             {
-                "nome": "Refrigerante",
+                "nome": "Refrigerante 1L",
                 "valorfinal": "8",
                 "descricao": "1 Litro",
                 "nomeCategoria": "Bebidas"
             },
             {
-                "nome": "Refrigerante",
+                "nome": "Refrigerante 2L",
                 "valorfinal": "10",
-                "descricao": "2 litros",
+                "descricao": "2 Litros",
                 "nomeCategoria": "Bebidas"
             },
             {
                 "nome": "Chá",
                 "valorfinal": "5",
-                "descricao": "300 ml",
+                "descricao": "300ml",
                 "nomeCategoria": "Bebidas"
             },
             {
                 "nome": "Tampico",
                 "valorfinal": "5",
-                "descricao": "500 ml",
+                "descricao": "500ml",
+                "nomeCategoria": "Bebidas"
+            },
+            {
+                "nome": "Suco natural de Laranja",
+                "valorfinal": "8",
+                "descricao": "500ml - Com laranjas selecionadas. Extraído manualmente.",
+                "nomeCategoria": "Bebidas"
+            },
+            {
+                "nome": "Limonada Suiça",
+                "valorfinal": "8",
+                "descricao": "500ml - Limão galego levemente triturado, açúcar, leite condensado e leite",
                 "nomeCategoria": "Bebidas"
             },
             {
@@ -43,111 +53,206 @@
                 "valorfinal": "3",
                 "descricao": "500ml",
                 "nomeCategoria": "Bebidas"
+            }
+        ]
+    },
+    {
+        "categoria": "drink",
+        "1": [{
+                "nome": "Morango com limão",
+                "valorfinal": "10",
+                "descricao": "500ml - Pedaços de morango com rodelas de limão siciliano, hortelã, xarope e água gaseificada.",
+                "nomeCategoria": "drinks"
             },
             {
-                "nome": "Suco de Laranja 100% Natural e Puro",
-                "valorfinal": "8",
-                "descricao": "500 ml",
-                "nomeCategoria": "Bebidas"
+                "nome": "Soda com abacaxi",
+                "valorfinal": "10",
+                "descricao": "Rodelas de abacaxi com leite de coco, adicionado leite condensado e finalizado com soda limonada.",
+                "nomeCategoria": "drinks"
+            },
+            {
+                "nome": "Soda italiana de maracujá",
+                "valorfinal": "10",
+                "descricao": "Xarope de maracujá, água gaseificada e gelo.",
+                "nomeCategoria": "drinks"
             }
         ]
     },
     {
         "categoria": "burger",
-        "1": [{
+        "2": [{
                 "nome": "Piazinho Burger",
-                "valorfinal": "12",
-                "descricao": "pão, maionese, hambúrguer de costela (200g), Alface Americana, mussarela.",
+                "valorfinal": "16",
+                "descricao": "Pão, molho da casa, hambúrguer de costela (200g), alface e mussarela.",
                 "nomeCategoria": "Hambúrgues"
             },
             {
                 "nome": "Mano's Burger",
-                "valorfinal": "15",
-                "descricao": "Pão, maionese, barbecue, Alface Americana, hambúrguer de costela (200g), cebola roxa, tomate, mussarela.",
+                "valorfinal": "19",
+                "descricao": "Pão, molho da casa, hambúrguer de costela, cebola roxa com barbecue, tomate, alface e mussarela.",
                 "nomeCategoria": "Hambúrgues"
             },
             {
                 "nome": "Jhow's Burger",
-                "valorfinal": "16",
-                "descricao": "Pão, maionese, barbecue, frango, Alface Americana, hambúrguer de costela (200g), cebola roxa, tomate, mussarela.",
+                "valorfinal": "20",
+                "descricao": "Pão, molho da casa, hambúrguer de costela (200g), filezinho de frango grelhado, cebola roxa, cenoura ralada, alface e mussarela.",
                 "nomeCategoria": "Hambúrgues"
             },
             {
                 "nome": "Brother's Burger",
-                "valorfinal": "17",
-                "descricao": "Pão, maionese, barbecue, Bacon, Alface Americana, hambúrguer de costela (200g), cebola roxa, tomate, mussarela.",
+                "valorfinal": "22",
+                "descricao": "Pão, molho da casa, hambúrguer de costela (200g), bacon em fatias com cebola roxa na chapa, barbecue, tomate, alface e cheddar.",
                 "nomeCategoria": "Hambúrgues"
             },
             {
                 "nome": "Brou's Burguer",
-                "valorfinal": "17",
-                "descricao": "Pão, maionese, barbecue, calabresa, Alface Americana, hambúrguer de costela (200g), cebola roxa, tomate, mussarela.",
+                "valorfinal": "22",
+                "descricao": "Pão, molho da casa, hambúrguer de costela (200g), fraldinha na mostarda com cebola pérola, alface e mussarela.",
+                "nomeCategoria": "Hambúrgues"
+            },
+            {
+                "nome": "Bom de Bico Burger",
+                "valorfinal": "23",
+                "descricao": "Pão, molho da casa, hambúrguer de grão de bico 200g, tomate, cebola pérola, pepino, alface e mussarela.",
                 "nomeCategoria": "Hambúrgues"
             },
             {
                 "nome": "Parça's Burger",
-                "valorfinal": "21",
-                "descricao": "Pão, maionese, barbecue, bacon, calabresa, Alface Americana, 2 hambúrguer de costela (150g), cebola roxa, tomate, mussarela, Cheddar.",
+                "valorfinal": "25",
+                "descricao": "Pão, molho da casa, 2 hambúrgueres de costela (150g), bacon com calabresa e cebola roxa com barbecue na chapa, tomate, alface e cheddar em dobro.",
+                "nomeCategoria": "Hambúrgues"
+            },
+            {
+                "nome": "+ Batata e Refri para qualquer hamburguer.",
+                "valorfinal": "8",
+                "descricao": "",
                 "nomeCategoria": "Hambúrgues"
             }
         ]
     },
     {
         "categoria": "hotdog",
-        "2": [{
+        "3": [
+            {
                 "nome": "Simples",
-                "valorfinal": "8",
-                "descricao": "Pão, maionese, 1 vina, milho, tomate, cebola, batata palha.",
+                "valorfinal": "12",
+                "descricao": "Pão, maionese, 1 vina, milho, tomate, cebola e batata palha.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Frango",
-                "valorfinal": "11",
-                "descricao": "Pão, 1 vina, frango, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream cheese.",
+                "valorfinal": "15",
+                "descricao": "Pão, 1 vina, frango, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream Cheese.",
+                "nomeCategoria": "HotDogs"
+            },
+            {
+                "nome": "Lombinho",
+                "valorfinal": "15",
+                "descricao": "Pão, 1 vina, lombinho, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream Cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Bacon",
-                "valorfinal": "11",
-                "descricao": "Pão, 1 vina, Bacon, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream cheese.",
+                "valorfinal": "15",
+                "descricao": "Pão, 1 vina, bacon, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream Cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Calabresa",
-                "valorfinal": "11",
-                "descricao": "Pão, 1 vina, Calabresa, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream cheese.",
+                "valorfinal": "15",
+                "descricao": "Pão, 1 vina, calabresa, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream Cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Vegetariano",
-                "valorfinal": "13",
-                "descricao": "Pão, 1 vina vegana, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream cheese.",
+                "valorfinal": "17",
+                "descricao": "Pão, 1 vina vegana, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream Cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Mexicano",
-                "valorfinal": "13",
-                "descricao": "Pão, 1 vina, Carne moida apimentada, milho, tomate, cebola, Doritos, Cheddar ou Catupiry ou Cream cheese.",
+                "valorfinal": "18",
+                "descricao": "Pão, 1 vina, carne moida apimentada, milho, tomate, cebola, Doritos, Cheddar ou Catupiry ou Cream Cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Dos Parças",
-                "valorfinal": "14",
-                "descricao": "Pão, 1 vina, Frango, Lombinho, Bacon, Calabresa, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream cheese.",
+                "valorfinal": "18",
+                "descricao": "Pão, 1 vina, frango, lombinho, bacon, calabresa, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream Cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Strogonoff ",
-                "valorfinal": "15",
-                "descricao": "Pão, 1 vina, Posta vermelha, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream cheese.",
+                "valorfinal": "19",
+                "descricao": "Pão, 1 vina, posta vermelha, milho, tomate, cebola, batata palha, Cheddar ou Catupiry ou Cream Cheese.",
                 "nomeCategoria": "HotDogs"
             },
             {
                 "nome": "Coração",
-                "valorfinal": "16",
-                "descricao": "Pão, 1 vina, cebola, tomate, milho, coração batata palha, cheddar, cream cheese ou Catupiry",
+                "valorfinal": "19",
+                "descricao": "Pão, 1 vina, cebola, tomate, milho, coração batata palha, Cheddar ou Catupiry ou Cream Cheese.",
+                "nomeCategoria": "HotDogs"
+            },
+            {
+                "nome": "Sensação",
+                "valorfinal": "15",
+                "descricao": "Pão, chocolate ao leite(branco ou preto), morango, leite condensado e powerball.",
+                "nomeCategoria": "HotDogs"
+            },
+            {
+                "nome": "Banoffe",
+                "valorfinal": "17",
+                "descricao": "Pão, doce de leite, banana, chantilly, leite condensado, canela e powerball.",
+                "nomeCategoria": "HotDogs"
+            },
+            {
+                "nome": "01 Vina Adicional ou Mussarela",
+                "valorfinal": "1",
+                "descricao": "",
+                "nomeCategoria": "HotDogs"
+            },
+              {
+                "nome": "Cheddar Adicional",
+                "valorfinal": "2",
+                "descricao": "",
                 "nomeCategoria": "HotDogs"
             }
         ]
+    },
+    {
+        "categoria": "porcao",
+        "4": [
+            {
+                "nome": "Batata rústica 200g",
+                "valorfinal": "7",
+                "descricao": "200g",
+                "nomeCategoria": "porcoes"
+            },
+            {
+                "nome": "Batata rústica 400g",
+                "valorfinal": "12",
+                "descricao": "400g",
+                "nomeCategoria": "porcoes"
+            },
+            {
+                "nome": "Polenta frita",
+                "valorfinal": "8",
+                "descricao": "300g",
+                "nomeCategoria": "porcoes"
+            },
+            {
+                "nome": "Anéis de cebola",
+                "valorfinal": "11",
+                "descricao": "A porção contém 12 Anéis",
+                "nomeCategoria": "porcoes"
+            },
+            {
+                "nome": "Adicionais",
+                "valorfinal": "2",
+                "descricao": "Bacon ou cheddar.",
+                "nomeCategoria": "porcoes"
+            }
+        ]
     }
+    
 ]
