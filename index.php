@@ -3,35 +3,52 @@
 
 <head>
     <title>Os Parças | Dog - Burger - Beer</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XEQZSDG37R"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-XEQZSDG37R');
+    </script>
     <meta charset="UTF-8">
+    <meta name="description" content="Hamburgueria como um dos melhores hambúrgueres e dogs de Curitiba, localizada no bairro Cabral. Nossa missão é trazer a melhor experiência em lanches para nosso clientes.">
+    <meta name="keywords" content="Burger, dog, cachorro-quente, curitiba, cerveja, cabral, juvevê, melhor-hamburguer, hamburgueria">
+    <meta name="author" content="Fesper - Transformação Tecnológica">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!--===============================================================================================-->
-    <link rel="icon" type="image/png" href="images/icons/contatoLogo.png" />
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="fonts/themify/themify-icons.css">
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="vendor/slick/slick.css">
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="vendor/lightbox2/css/lightbox.min.css">
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="css/util.css">
-    <link rel="stylesheet" type="text/css" href="css/main.css">
-    <link rel="stylesheet" type="text/css" href="css/meuCss.css">
-    <!--===============================================================================================-->
+   
+    
+        <!--===============================================================================================-->
+        <link rel="icon" type="image/png" href="images/icons/contatoLogo.png" />
+        <!--===============================================================================================-->
+        <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+        <!--===============================================================================================-->
+        <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+        <!--===============================================================================================-->
+        <link rel="stylesheet" type="text/css" href="fonts/themify/themify-icons.css">
+        <!--===============================================================================================-->
+        <link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+        <!--===============================================================================================-->
+        <link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+        <!--===============================================================================================-->
+        <link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+        <!--===============================================================================================-->
+        <link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+        <!--===============================================================================================-->
+        <link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
+        <!--===============================================================================================-->
+        <link rel="stylesheet" type="text/css" href="vendor/slick/slick.css">
+        <!--===============================================================================================-->
+        <link rel="stylesheet" type="text/css" href="vendor/lightbox2/css/lightbox.min.css">
+        <!--===============================================================================================-->
+        <link rel="stylesheet" type="text/css" href="css/util.css">
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link rel="stylesheet" type="text/css" href="css/meuCss.css">
+        <!--===============================================================================================-->
 </head>
 
 <body class="animsition">
@@ -44,8 +61,7 @@
                     <!-- Logo -->
                     <div class="logo">
                         <a href="/">
-                            <img src="images/icons/contatoLogo.png" alt="IMG-LOGO"
-                                data-logofixed="images/icons/contatoLogo.png">
+                            <img src="images/icons/contatoLogo.png" alt="IMG-LOGO" data-logofixed="images/icons/contatoLogo.png">
                         </a>
                     </div>
 
@@ -58,7 +74,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="#cardapioAncora">Cardápio</a>
+                                    <a href="#cardapio">Cardápio</a>
                                 </li>
 
                                 <li>
@@ -74,10 +90,8 @@
 
                     <!-- Social -->
                     <div class="social flex-w flex-l-m p-r-20">
-                        <a href="https://www.instagram.com/osparcas.dog.burger/" target="_blank"
-                            class="fs-15 c-white"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                        <a href="https://www.facebook.com/hotdogdosparcas/" target="_blank" class="fs-15 c-white"><i
-                                class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
+                        <a href="https://www.instagram.com/osparcas.dog.burger/" target="_blank" class="fs-15 c-white"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        <a href="https://www.facebook.com/hotdogdosparcas/" target="_blank" class="fs-15 c-white"><i class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
 
 
                         <button class="btn-show-sidebar m-l-33 trans-0-4"></button>
@@ -100,7 +114,7 @@
             </li>
 
             <li class="t-center m-b-13">
-                <a href="#cardapioAncora">Cardápio</a>
+                <a href="#cardapio">Cardápio</a>
             </li>
 
             <li class="t-center m-b-13">
@@ -122,33 +136,27 @@
 
             <!-- Gallery -->
             <div class="wrap-gallery-sidebar flex-w">
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco1.jpg"
-                    data-lightbox="gallery-footer">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco1.jpg" data-lightbox="gallery-footer">
                     <img src="images/img-espaco/espaco1.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco2.jpg"
-                    data-lightbox="gallery-footer">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco2.jpg" data-lightbox="gallery-footer">
                     <img src="images/img-espaco/espaco2.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/bebida1.jpg"
-                    data-lightbox="gallery-footer">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/bebida1.jpg" data-lightbox="gallery-footer">
                     <img src="images/img-espaco/bebida1.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/lanche1.jpg"
-                    data-lightbox="gallery-footer">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/lanche1.jpg" data-lightbox="gallery-footer">
                     <img src="images/img-espaco/lanche1.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco6.jpg"
-                    data-lightbox="gallery-footer">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco6.jpg" data-lightbox="gallery-footer">
                     <img src="images/img-espaco/espaco6.jpg" alt="GALLERY">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco7.jpg"
-                    data-lightbox="gallery-footer">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco7.jpg" data-lightbox="gallery-footer">
                     <img src="images/img-espaco/espaco7.jpg" alt="GALLERY">
                 </a>
 
@@ -165,8 +173,7 @@
 
                 <div class="item-slick1 item3-slick1" style="background-image: url(images/fundoPrincipal.jpg);">
                     <div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
-                        <span class="caption1-slide1 txt1 t-center animated visible-false m-b-15"
-                            data-appear="rotateInDownLeft">
+                        <span class="caption1-slide1 txt1 t-center animated visible-false m-b-15" data-appear="rotateInDownLeft">
                             Bem vindo ao
                         </span>
 
@@ -174,12 +181,11 @@
                             Os parças
                         </h2> -->
 
-                        <img src="images/logo.png" id="id_logo" alt="IMG-LOGO"
-                            data-logofixed="images/icons/contatoLogo.png">
+                        <img src="images/logo.png" id="id_logo" alt="IMG-LOGO" data-logofixed="images/icons/contatoLogo.png">
 
                         <div class="wrap-btn-slide1 animated visible-false" data-appear="rotateIn">
                             <!-- Button1 -->
-                            <a href="#cardapioAncora" class="btn1 flex-c-m size1 txt3 trans-0-4">
+                            <a href="#cardapio" class="btn1 flex-c-m size1 txt3 trans-0-4">
                                 Cardápio
                             </a>
                         </div>
@@ -197,15 +203,15 @@
         <h3 class="tit2 t-center">
             DOG BURGER BEER
         </h3>
-       
+
         <h3 class="tit5 t-center m-t-2">Bem-vindo</h3>
         <div class="container">
-            
+
 
             <div class="row p-t-50">
                 <div class="col-md-6 p-t-45 p-b-30">
                     <div class="wrap-text-welcome t-center">
-                        
+
 
                         <h5 class="tit2 t-center">Missão</h5>
                         <p class="t-center m-b-22 size3 m-l-r-auto">
@@ -214,7 +220,7 @@
                         <p class="t-center m-b-22 size3 m-l-r-auto">Conquistar individualmente cada pessoa com o melhor lanche e o melhor atendimento.</p>
                         <h5 class="tit2 t-center">Valores</h5>
                         <p class="t-center m-b-22 size3 m-l-r-auto">Conquistar individualmente cada pessoa com o melhor lanche e o melhor atendimento.
-                        <br>Compromisso em qualidade e rapidez no serviço.
+                            <br>Compromisso em qualidade e rapidez no serviço.
                         </p>
 
                     </div>
@@ -231,21 +237,18 @@
 
     <!-- Intro -->
 
-    <section id="cardapioAncora" class="bg1-pattern">
+    <section id="cardapio" class="bg1-pattern">
         <h3 class="tit5 pt-5 t-center m-t-2">Cardápio</h3>
         <!-- Main menu -->
-        <section class="section-mainmenu p-t-110 p-b-70 bg1-pattern">
-            <div class="container">
-                <div id="cardapio" class="row  d-flex justify-content-between">
-
-                </div>
-            </div>
-        </section>
+        <div class="flipbook-viewport">
+	
+        <iframe class="w-100" height="600px" src="https://osparcas.com/magazine/slider.html" title="W3Schools Free Online Web Tutorials"></iframe>
 
     </section>
 
     <section id="espaço">
         <!-- Gallery -->
+        <h3 class="tit5 pt-5 t-center m-t-2">Conheça o nosso espaço</h3>
         <div class="section-gallery p-t-118 p-b-100">
 
             <div class="wrap-label-gallery
@@ -285,10 +288,7 @@
         <h3 class="tit3 t-center m-b-35 m-t-2">Contato</h3>
         <div class="container">
             <div class="map bo8 bo-rad-10 of-hidden">
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3603.879132963184!2d-49.25409368547164!3d-25.40885613827931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI0JzMxLjkiUyA0OcKwMTUnMDYuOSJX!5e0!3m2!1spt-BR!2sbr!4v1595008082538!5m2!1spt-BR!2sbr"
-                    width="100%" height="600px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
-                    tabindex="0"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3603.879132963184!2d-49.25409368547164!3d-25.40885613827931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDI0JzMxLjkiUyA0OcKwMTUnMDYuOSJX!5e0!3m2!1spt-BR!2sbr!4v1595008082538!5m2!1spt-BR!2sbr" width="100%" height="600px" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 <!-- <div id="google_map" data-map-x="-25.408861" data-map-y="-49.251905" data-pin="images/icons/icon-position-map.png" data-scrollwhell="0" data-draggable="1"></div> -->
             </div>
         </div>
@@ -327,9 +327,7 @@
                             </span>
 
                             <span class="txt23 size38">
-                                <a class="pedido"
-                                    href="https://api.whatsapp.com/send?phone=5541998353610&text=Boa%20noite,%20gostaria%20de%20pedir%20um%20lanche..."
-                                    target="_blank">(41) 9 9835-3610</a>
+                                <a class="pedido" href="https://api.whatsapp.com/send?phone=5541998353610&text=Boa%20noite,%20gostaria%20de%20pedir%20um%20lanche..." target="_blank">(41) 9 9835-3610</a>
                             </span>
                         </div>
                     </div>
@@ -374,10 +372,7 @@
 
                         <li class="txt14 m-b-14">
 
-                            <a class="pedido"
-                                href="https://api.whatsapp.com/send?phone=5541998353610&text=Boa%20noite,%20gostaria%20de%20pedir%20um%20lanche.."
-                                target="_blank"><i class="fa fa-phone fs-16 dis-inline-block size19"
-                                    aria-hidden="true"></i>(41) 9 9835-3610</a>
+                            <a class="pedido" href="https://api.whatsapp.com/send?phone=5541998353610&text=Boa%20noite,%20gostaria%20de%20pedir%20um%20lanche.." target="_blank"><i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>(41) 9 9835-3610</a>
                         </li>
 
                         <li class="txt14 m-b-14">
@@ -412,42 +407,34 @@
 
                     <!-- Gallery footer -->
                     <div class="wrap-gallery-footer flex-w">
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco1.jpg"
-                            data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco1.jpg" data-lightbox="gallery-footer">
                             <img src="images/img-espaco/espaco1.jpg" alt="GALLERY">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco2.jpg"
-                            data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco2.jpg" data-lightbox="gallery-footer">
                             <img src="images/img-espaco/espaco2.jpg" alt="GALLERY">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/bebida1.jpg"
-                            data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/bebida1.jpg" data-lightbox="gallery-footer">
                             <img src="images/img-espaco/bebida1.jpg" alt="GALLERY">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco4.jpg"
-                            data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco4.jpg" data-lightbox="gallery-footer">
                             <img src="images/img-espaco/espaco4.jpg" alt="GALLERY">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/lanche1.jpg"
-                            data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/lanche1.jpg" data-lightbox="gallery-footer">
                             <img src="images/img-espaco/lanche1.jpg" alt="GALLERY">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco6.jpg"
-                            data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco6.jpg" data-lightbox="gallery-footer">
                             <img src="images/img-espaco/espaco6.jpg" alt="GALLERY">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco7.jpg"
-                            data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco7.jpg" data-lightbox="gallery-footer">
                             <img src="images/img-espaco/espaco7.jpg" alt="GALLERY">
                         </a>
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco8.jpg"
-                            data-lightbox="gallery-footer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco8.jpg" data-lightbox="gallery-footer">
                             <img src="images/img-espaco/espaco8.jpg" alt="GALLERY">
                         </a>
                     </div>
@@ -460,16 +447,13 @@
             <div class="container">
                 <div class="flex-sb-m flex-w p-t-22 p-b-22">
                     <div class="p-t-5 p-b-5">
-                        <a href="https://www.instagram.com/osparcas.dog.burger/" target="_blank"
-                            class="fs-15 c-white"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                        <a href="https://www.facebook.com/hotdogdosparcas/" target="_blank" class="fs-15 c-white"><i
-                                class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
+                        <a href="https://www.instagram.com/osparcas.dog.burger/" target="_blank" class="fs-15 c-white"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        <a href="https://www.facebook.com/hotdogdosparcas/" target="_blank" class="fs-15 c-white"><i class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
 
                     </div>
 
                     <div class="txt17 p-r-20 p-t-5 p-b-5">
-                        Copyright &copy; <span id="data"></span>| Todos direitos reservados à Os Parças Dog e Burger | Desenvolvido por <a href="https://www.fesper.com.br"
-                            target="_blank">Fesper</a>
+                        Copyright &copy; <span id="data"></span>| Todos direitos reservados à Os Parças Dog e Burger | Desenvolvido por <a href="https://www.fesper.com.br" target="_blank">Fesper</a>
                     </div>
                 </div>
             </div>
@@ -480,8 +464,7 @@
     <!-- Back to top -->
     <div class="btn-back-to-top bg0-hov" id="myBtn">
         <span class="symbol-btn-back-to-top">
-            <a class="whatsapp" href="https://api.whatsapp.com/send?phone=5541998353610&text=Boa%20noite,%20gostaria%20de%20pedir%20um%20lanche..."
-                target="_blank">  <i class="fa fa-whatsapp" aria-hidden="true"></i>   Faça o seu pedido
+            <a class="whatsapp" href="https://api.whatsapp.com/send?phone=5541998353610&text=Boa%20noite,%20gostaria%20de%20pedir%20um%20lanche..." target="_blank"> <i class="fa fa-whatsapp" aria-hidden="true"></i> Faça o seu pedido
             </a>
         </span>
     </div>
@@ -498,8 +481,7 @@
             <div class="wrap-video-mo-01">
                 <div class="w-full wrap-pic-w op-0-0"><img src="images/icons/video-16-9.jpg" alt="IMG"></div>
                 <div class="video-mo-01">
-                    <iframe src="https://www.youtube.com/embed/5k1hSu2gdKE?rel=0&amp;showinfo=0"
-                        allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/5k1hSu2gdKE?rel=0&amp;showinfo=0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -536,9 +518,48 @@
     <!-- <script src="vendor/masonry/masonry.pkgd.min.js"></script> -->
     <script type="text/javascript" src="js/meuJs.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
+  
+    <script type="text/javascript">
 
+function loadApp() {
 
+	// Create the flipbook
 
+	$('.flipbook').turn({
+			// Width
+
+			width:922,
+			
+			// Height
+
+			height:600,
+
+			// Elevation
+
+			elevation: 50,
+			
+			// Enable gradients
+
+			gradients: true,
+			
+			// Auto center this flipbook
+
+			autoCenter: true
+
+	});
+}
+
+// Load the HTML4 version if there's not CSS transform
+
+yepnope({
+	test : Modernizr.csstransforms,
+	yep: ['./js/lib/turn.js'],
+	nope: ['./js/lib/turn.html4.min.js'],
+	both: ['./css/basic.css'],
+	complete: loadApp
+});
+
+</script>
 </body>
 
 </html>

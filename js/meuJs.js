@@ -67,7 +67,7 @@ $(document).ready(function() {
                     `
             }
 
-            $('#cardapio').append(cardapio);
+         //   $('#cardapio').append(cardapio);
         });
 
     }
