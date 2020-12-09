@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Os Parças | Dog - Burger - Beer</title>
+    <title>Os Parças | Dog - Burger - Beer | Cabral e Juvevê</title>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XEQZSDG37R"></script>
     <script>
@@ -27,7 +27,7 @@
         <!--===============================================================================================-->
         <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
         <!--===============================================================================================-->
-        <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+        <script src="https://kit.fontawesome.com/c4463316a7.js" crossorigin="anonymous"></script>
         <!--===============================================================================================-->
         <link rel="stylesheet" type="text/css" href="fonts/themify/themify-icons.css">
         <!--===============================================================================================-->
@@ -61,7 +61,7 @@
                     <!-- Logo -->
                     <div class="logo">
                         <a href="/">
-                            <img src="images/icons/contatoLogo.png" alt="IMG-LOGO" data-logofixed="images/icons/contatoLogo.png">
+                            <img src="images/icons/contatoLogo.png" alt="logo-os-parcas" data-logofixed="images/icons/contatoLogo.png">
                         </a>
                     </div>
 
@@ -80,6 +80,10 @@
                                 <li>
                                     <a href="#espaço">Conheça</a>
                                 </li>
+<!--
+                                <li>
+                                    <a href="#depoimentos">Depoimentos</a>
+                                </li>-->
 
                                 <li>
                                     <a href="#contato">Contato</a>
@@ -121,6 +125,10 @@
                 <a href="#espaço">Conheça</a>
             </li>
 
+            <!--<li class="t-center m-b-13">
+                <a href="#depoimentos">Depoimentos</a>
+            </li>-->
+
             <li class="t-center m-b-13">
                 <a href="#contato">Contato</a>
             </li>
@@ -134,30 +142,30 @@
                 Galeria
             </h4>
 
-            <!-- Gallery -->
+            <!-- Gallery Footer -->
             <div class="wrap-gallery-sidebar flex-w">
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco1.jpg" data-lightbox="gallery-footer">
-                    <img src="images/img-espaco/espaco1.jpg" alt="GALLERY">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/01chopp-071220.jpg" data-lightbox="gallery-footer">
+                    <img src="images/img-espaco/01chopp-071220.jpg" alt="espaço-os-parcas-dog">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco2.jpg" data-lightbox="gallery-footer">
-                    <img src="images/img-espaco/espaco2.jpg" alt="GALLERY">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/02batata-071220.jpg" data-lightbox="gallery-footer">
+                    <img src="images/img-espaco/02batata-071220.jpg" alt="espaço-os-parcas-burger">
                 </a>
 
-                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/bebida1.jpg" data-lightbox="gallery-footer">
-                    <img src="images/img-espaco/bebida1.jpg" alt="GALLERY">
+                <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/03chopp-071220.jpg" data-lightbox="gallery-footer">
+                    <img src="images/img-espaco/03chopp-071220.jpg" alt="espaço-os-parcas-beer">
                 </a>
 
                 <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/lanche1.jpg" data-lightbox="gallery-footer">
-                    <img src="images/img-espaco/lanche1.jpg" alt="GALLERY">
+                    <img src="images/img-espaco/lanche1.jpg" alt="espaço-os-parcas-hamburguer">
                 </a>
 
                 <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco6.jpg" data-lightbox="gallery-footer">
-                    <img src="images/img-espaco/espaco6.jpg" alt="GALLERY">
+                    <img src="images/img-espaco/espaco6.jpg" alt="espaço-os-parcas-cachorro-quente">
                 </a>
 
                 <a class="item-gallery-sidebar wrap-pic-w" href="images/img-espaco/espaco7.jpg" data-lightbox="gallery-footer">
-                    <img src="images/img-espaco/espaco7.jpg" alt="GALLERY">
+                    <img src="images/img-espaco/espaco7.jpg" alt="espaço-os-parcas-hotdog">
                 </a>
 
 
@@ -246,6 +254,116 @@
 
     </section>
 
+<!-- Review 
+	<section id="depoimentos" class="section-review p-t-115">
+		<div class="title-review t-center m-b-2">
+			<span class="tit2 p-l-15 p-r-15">
+                Olha o que andam falando
+			</span>
+
+			<h3 class="tit8 t-center p-l-20 p-r-15 p-t-3">
+				da gente! <i class="far fa-smile-beam"></i>
+			</h3>
+        </div>
+        
+		<div class="wrap-slick3">
+			<div class="slick3">
+				<div class="item-slick3 item1-slick3">
+					<div class="wrap-content-slide3 p-b-50 p-t-50">
+						<div class="container">-->
+							<!--<div class="pic-review size14 bo4 wrap-cir-pic m-l-r-auto animated visible-false" data-appear="zoomIn">
+								<img src="images/avatar-01.jpg" alt="IGM-AVATAR">
+							</div>-->
+<!--
+							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
+								<p class="t-center txt12 size15 m-l-r-auto">
+									“Um dos melhores dogs que já comi, quando penso em cachorro-quente, tem que ser dos Parças.”
+								</p>
+
+								<div class="star-review fs-18 color0 flex-c-m m-t-12">
+									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+								</div>
+
+								<div class="more-review txt4 t-center animated visible-false m-t-32" data-appear="fadeInUp">
+                                    Marco Santos @ Curitiba - <i>Avaliação do Google / Local Guide</i>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="item-slick3 item2-slick3">
+					<div class="wrap-content-slide3 p-b-50 p-t-50">
+						<div class="container">-->
+							<!--<div class="pic-review size14 bo4 wrap-cir-pic m-l-r-auto animated visible-false" data-appear="zoomIn">
+								<img src="images/avatar-04.jpg" alt="IGM-AVATAR">
+							</div>-->
+<!--
+							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
+								<p class="t-center txt12 size15 m-l-r-auto">
+									“Pedimos um sanduíche, estava maravilhoso, delicioso mas não consegui comer todo de tão grande.
+                                        Bom atendimento.
+                                        Cuidados preservados.
+                                        Chopp até 20h30 pode repetir uma vez de graça.
+                                        Vale a pena conhecer.
+                                        Aproveitem.
+                                        Fomos outra noite com a família e tinha música ao vivo. Muito bom tb.”
+								</p>
+
+								<div class="star-review fs-18 color0 flex-c-m m-t-12">
+									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+								</div>
+
+								<div class="more-review txt4 t-center animated visible-false m-t-32" data-appear="fadeInUp">
+                                    Margarida Almeida @ Curitiba - <i>Avaliação do Google</i>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="item-slick3 item3-slick3">
+					<div class="wrap-content-slide3 p-b-50 p-t-50">
+						<div class="container">-->
+							<!--<div class="pic-review size14 bo4 wrap-cir-pic m-l-r-auto animated visible-false" data-appear="zoomIn">
+								<img src="images/avatar-05.jpg" alt="IGM-AVATAR">
+							</div>-->
+<!--
+							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
+								<p class="t-center txt12 size15 m-l-r-auto">
+									“Vale a pena a visita: ambiente muito bonito, atendimento excelente e lanches muito gostosos!”
+								</p>
+
+								<div class="star-review fs-18 color0 flex-c-m m-t-12">
+									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+								</div>
+
+								<div class="more-review txt4 t-center animated visible-false m-t-32" data-appear="fadeInUp">
+                                    Carla Gonçalves @ Curitiba - <i>Avaliação do Google / Local Guide</i>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="wrap-slick3-dots m-t-30"></div>
+		</div>
+	</section>
+-->
     <section id="espaço">
         <!-- Gallery -->
         <h3 class="tit5 pt-5 t-center m-t-2">Conheça o nosso espaço</h3>
@@ -258,7 +376,7 @@
                         flex-col-c-sm 
                         p-l-15 p-r-15 
                         m-b-60">
-                <button class="label-gallery txt26 trans-0-4 is-actived" data-filter="*">
+<!--                <button class="label-gallery txt26 trans-0-4 is-actived" data-filter="*">
                     Todas as fotos
                 </button>
 
@@ -271,7 +389,7 @@
                 </button>
                 <button class="label-gallery txt26 trans-0-4" data-filter=".bebida">
                     Bebidas
-                </button>
+                </button>-->
 
             </div>
 
@@ -308,7 +426,7 @@
                             </span>
 
                             <span class="txt23 size38">
-                                Av. Munhoz da Rocha, 787 - Juvevê, Curitiba - PR, 80035-000
+                                Av. Munhoz da Rocha, 787 - Juvevê, Curitiba - PR, 80.035-000
                             </span>
                         </div>
                     </div>
@@ -323,7 +441,7 @@
 
                         <div class="flex-col-l">
                             <span class="txt5 p-b-10">
-                                Whatsapp
+                                WhatsApp
                             </span>
 
                             <span class="txt23 size38">
@@ -342,7 +460,7 @@
 
                         <div class="flex-col-l">
                             <span class="txt5 p-b-10">
-                                horario de funcionamento
+                                horário de funcionamento
                             </span>
 
                             <span class="txt23 center size38">
@@ -367,7 +485,7 @@
                     <ul class="m-b-70">
                         <li class="txt14 m-b-14">
                             <i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i> Av. Munhoz
-                            da Rocha, 787 - Juvevê, Curitiba - PR, 80035-000
+                            da Rocha, 787 - Juvevê, Curitiba - PR, 80.035-000
                         </li>
 
                         <li class="txt14 m-b-14">
@@ -386,7 +504,7 @@
                 </div>
                 <div class="col-sm-4 p-t-50">
                     <h4 class="txt13 m-b-32">
-                        horario de funcionamento
+                        horário de funcionamento
                     </h4>
 
                     <ul>
@@ -407,35 +525,35 @@
 
                     <!-- Gallery footer -->
                     <div class="wrap-gallery-footer flex-w">
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco1.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/espaco1.jpg" alt="GALLERY">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/01chopp-071220.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/01chopp-071220.jpg" alt="espaço-os-parcas-dog">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco2.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/espaco2.jpg" alt="GALLERY">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/02batata-071220.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/02batata-071220.jpg" alt="espaço-os-parcas-burger">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/bebida1.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/bebida1.jpg" alt="GALLERY">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/03chopp-071220.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/03chopp-071220.jpg" alt="espaço-os-parcas-beer">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco4.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/espaco4.jpg" alt="GALLERY">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/04salao-071220.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/04salao-071220.jpg" alt="espaço-os-parcas-dog">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/lanche1.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/lanche1.jpg" alt="GALLERY">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/05decor-071220.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/05decor-071220.jpg" alt="espaço-os-parcas-burguer">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco6.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/espaco6.jpg" alt="GALLERY">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/06chopp-071220.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/06chopp-071220.jpg" alt="espaço-os-parcas-chopp">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco7.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/espaco7.jpg" alt="GALLERY">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/07chopp-071220.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/07chopp-071220.jpg" alt="espaço-os-parcas-longneck">
                         </a>
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/espaco8.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/espaco8.jpg" alt="GALLERY">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/08wall-071220.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/08wall-071220.jpg" alt="espaço-os-parcas-hamburguer">
                         </a>
                     </div>
 
@@ -453,7 +571,7 @@
                     </div>
 
                     <div class="txt17 p-r-20 p-t-5 p-b-5">
-                        Copyright &copy; <span id="data"></span>| Todos direitos reservados à Os Parças Dog e Burger | Desenvolvido por <a href="https://www.fesper.com.br" target="_blank">Fesper</a>
+                        Copyright &copy; <span id="data"></span> - Todos direitos reservados | Desenvolvido por <a href="https://www.fesper.com.br" target="_blank">Fesper</a>
                     </div>
                 </div>
             </div>

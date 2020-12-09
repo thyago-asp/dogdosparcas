@@ -1,19 +1,22 @@
 [
 
-    { "src": "./images/img-espaco/espaco1.jpg", "tipo": "espaco" },
-    { "src": "./images/img-espaco/espaco2.jpg", "tipo": "espaco" },
-    { "src": "./images/img-espaco/espaco3.jpg", "tipo": "espaco" },
-    { "src": "./images/img-espaco/espaco4.jpg", "tipo": "espaco" },
-    { "src": "./images/img-espaco/espaco5.jpg", "tipo": "espaco" },
-    { "src": "./images/img-espaco/espaco6.jpg", "tipo": "espaco" },
-    { "src": "./images/img-espaco/espaco7.jpg", "tipo": "espaco" },
-    { "src": "./images/img-espaco/espaco8.jpg", "tipo": "espaco" },
-    { "src": "./images/img-espaco/lanche1.jpg", "tipo": "lanche" },
-    { "src": "./images/img-espaco/lanche2.jpg", "tipo": "lanche" },
-    { "src": "./images/img-espaco/lanche3.jpg", "tipo": "lanche" },
-    { "src": "./images/img-espaco/lanche4.jpg", "tipo": "lanche" },
-    { "src": "./images/img-espaco/lanche5.jpg", "tipo": "lanche" },
-    { "src": "./images/img-espaco/bebida1.jpg", "tipo": "bebida" }
+    { "src": "./images/img-espaco/01chopp-071220.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/02batata-071220.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/03chopp-071220.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/04salao-071220.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/05decor-071220.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/06chopp-071220.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/07chopp-071220.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/08wall-071220.jpg", "tipo": "espaco" },
+    { "src": "./images/img-espaco/09dog-071220.jpeg", "tipo": "lanche" },
+    { "src": "./images/img-espaco/10burg-071220.jpg", "tipo": "lanche" },
+    { "src": "./images/img-espaco/11burg-071220.jpg:", "tipo": "lanche" },
+    { "src": "./images/img-espaco/12burg-071220.jpg", "tipo": "lanche" },
+    { "src": "./images/img-espaco/13burg-071220.jpg", "tipo": "lanche" },
+    { "src": "./images/img-espaco/14dogdoce-071220.jpg", "tipo": "bebida" },
+    { "src": "./images/img-espaco/15dog-071220.jpg", "tipo": "bebida" },
+    { "src": "./images/img-espaco/16burg-071220.jpg", "tipo": "bebida" },
+    { "src": "./images/img-espaco/17burg-071220.jpg", "tipo": "bebida" }
 
 
 ]
