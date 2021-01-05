@@ -80,10 +80,10 @@
                                 <li>
                                     <a href="#espaço">Conheça</a>
                                 </li>
-<!--
+
                                 <li>
                                     <a href="#depoimentos">Depoimentos</a>
-                                </li>-->
+                                </li>
 
                                 <li>
                                     <a href="#contato">Contato</a>
@@ -125,9 +125,9 @@
                 <a href="#espaço">Conheça</a>
             </li>
 
-            <!--<li class="t-center m-b-13">
+            <li class="t-center m-b-13">
                 <a href="#depoimentos">Depoimentos</a>
-            </li>-->
+            </li>
 
             <li class="t-center m-b-13">
                 <a href="#contato">Contato</a>
@@ -254,7 +254,7 @@
 
     </section>
 
-<!-- Review 
+<!-- Review -->
 	<section id="depoimentos" class="section-review p-t-115">
 		<div class="title-review t-center m-b-2">
 			<span class="tit2 p-l-15 p-r-15">
@@ -270,11 +270,11 @@
 			<div class="slick3">
 				<div class="item-slick3 item1-slick3">
 					<div class="wrap-content-slide3 p-b-50 p-t-50">
-						<div class="container">-->
+						<div class="container">
 							<!--<div class="pic-review size14 bo4 wrap-cir-pic m-l-r-auto animated visible-false" data-appear="zoomIn">
 								<img src="images/avatar-01.jpg" alt="IGM-AVATAR">
 							</div>-->
-<!--
+
 							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
 								<p class="t-center txt12 size15 m-l-r-auto">
 									“Um dos melhores dogs que já comi, quando penso em cachorro-quente, tem que ser dos Parças.”
@@ -298,11 +298,11 @@
 
 				<div class="item-slick3 item2-slick3">
 					<div class="wrap-content-slide3 p-b-50 p-t-50">
-						<div class="container">-->
+						<div class="container">
 							<!--<div class="pic-review size14 bo4 wrap-cir-pic m-l-r-auto animated visible-false" data-appear="zoomIn">
 								<img src="images/avatar-04.jpg" alt="IGM-AVATAR">
 							</div>-->
-<!--
+
 							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
 								<p class="t-center txt12 size15 m-l-r-auto">
 									“Pedimos um sanduíche, estava maravilhoso, delicioso mas não consegui comer todo de tão grande.
@@ -332,11 +332,11 @@
 
 				<div class="item-slick3 item3-slick3">
 					<div class="wrap-content-slide3 p-b-50 p-t-50">
-						<div class="container">-->
+						<div class="container">
 							<!--<div class="pic-review size14 bo4 wrap-cir-pic m-l-r-auto animated visible-false" data-appear="zoomIn">
 								<img src="images/avatar-05.jpg" alt="IGM-AVATAR">
 							</div>-->
-<!--
+
 							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
 								<p class="t-center txt12 size15 m-l-r-auto">
 									“Vale a pena a visita: ambiente muito bonito, atendimento excelente e lanches muito gostosos!”
@@ -363,7 +363,7 @@
 			<div class="wrap-slick3-dots m-t-30"></div>
 		</div>
 	</section>
--->
+
     <section id="espaço">
         <!-- Gallery -->
         <h3 class="tit5 pt-5 t-center m-t-2">Conheça o nosso espaço</h3>
