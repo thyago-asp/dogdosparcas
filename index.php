@@ -464,7 +464,9 @@
                             </span>
 
                             <span class="txt23 center size38">
-                                17:30 – 23:30 PM <br>(Pode ter alteração por conta do decreto do COVID-19)
+                                terça a domingo
+                                <br><b>17:30 – 23:30 PM </b>
+                                <br><i>(Pode ter alteração por conta do decreto do COVID-19)</i>
                             </span>
                         </div>
                     </div>
@@ -490,7 +492,7 @@
 
                         <li class="txt14 m-b-14">
 
-                            <a class="pedido" href="https://api.whatsapp.com/send?phone=5541998353610&text=Boa%20noite,%20gostaria%20de%20pedir%20um%20lanche.." target="_blank"><i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>(41) 9 9835-3610</a>
+                            <a class="pedido" href="https://api.whatsapp.com/send?phone=5541998353610&text=Boa%20noite,%20gostaria%20de%20pedir%20um%20lanche.." target="_blank"><i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i><b>(41) 9 9835-3610</b></a>
                         </li>
 
                         <li class="txt14 m-b-14">
@@ -509,11 +511,11 @@
 
                     <ul>
                         <li class="txt14">
-                            17:30 – 23:30 PM <br>(Pode ter alteração por conta do decreto do COVID-19)
+                            terça a domingo <br><b>17:30 – 23:30 PM</b>
                         </li>
 
                         <li class="txt14">
-                            segunda a sexta
+                            <i>(Pode ter alteração por conta do decreto do COVID-19)</i>
                         </li>
                     </ul>
                 </div>
