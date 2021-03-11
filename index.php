@@ -57,7 +57,7 @@
         <!-- Header desktop -->
         <div class="wrap-menu-header gradient1 trans-0-4">
             <div class="container h-full">
-                <div class="wrap_header trans-0-3">
+                <div class="wrap_header trans-0-3"><b>OS PARÇAS</b> 
                     <!-- Logo -->
                     <div class="logo">
                         <a href="/">
@@ -268,7 +268,8 @@
         
 		<div class="wrap-slick3">
 			<div class="slick3">
-				<div class="item-slick3 item1-slick3">
+
+                <div class="item-slick3 item1-slick3">
 					<div class="wrap-content-slide3 p-b-50 p-t-50">
 						<div class="container">
 							<!--<div class="pic-review size14 bo4 wrap-cir-pic m-l-r-auto animated visible-false" data-appear="zoomIn">
@@ -277,7 +278,8 @@
 
 							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
 								<p class="t-center txt12 size15 m-l-r-auto">
-									“Um dos melhores dogs que já comi, quando penso em cachorro-quente, tem que ser dos Parças.”
+                                “Dog muito bem qualificado, pois não exitam na utilização dos melhores ingredientes. Muito bom mesmo!
+                                E hoje vai ser o dia de provar o hamburger, que sem dúvida acompanha a tendência da casa, qual seja, a excelência na escolha dos produtos.”
 								</p>
 
 								<div class="star-review fs-18 color0 flex-c-m m-t-12">
@@ -289,29 +291,23 @@
 								</div>
 
 								<div class="more-review txt4 t-center animated visible-false m-t-32" data-appear="fadeInUp">
-                                    Marco Santos @ Curitiba - <i>Avaliação do Google / Local Guide</i>
+                                    Mauro de Paula Branco @ Curitiba - <i>Avaliação do Google / Local Guide</i>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 
-				<div class="item-slick3 item2-slick3">
+                <div class="item-slick3 item2-slick3">
 					<div class="wrap-content-slide3 p-b-50 p-t-50">
 						<div class="container">
 							<!--<div class="pic-review size14 bo4 wrap-cir-pic m-l-r-auto animated visible-false" data-appear="zoomIn">
-								<img src="images/avatar-04.jpg" alt="IGM-AVATAR">
+								<img src="images/avatar-01.jpg" alt="IGM-AVATAR">
 							</div>-->
 
 							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
 								<p class="t-center txt12 size15 m-l-r-auto">
-									“Pedimos um sanduíche, estava maravilhoso, delicioso mas não consegui comer todo de tão grande.
-                                        Bom atendimento.
-                                        Cuidados preservados.
-                                        Chopp até 20h30 pode repetir uma vez de graça.
-                                        Vale a pena conhecer.
-                                        Aproveitem.
-                                        Fomos outra noite com a família e tinha música ao vivo. Muito bom tb.”
+                                    “O melhor lugar de Curitiba, recomendo, os melhores lanches, ambiente nota 1000.”
 								</p>
 
 								<div class="star-review fs-18 color0 flex-c-m m-t-12">
@@ -323,7 +319,7 @@
 								</div>
 
 								<div class="more-review txt4 t-center animated visible-false m-t-32" data-appear="fadeInUp">
-                                    Margarida Almeida @ Curitiba - <i>Avaliação do Google</i>
+                                    Wellington Heine @ Curitiba - <i>Avaliação do Google / Local Guide</i>
 								</div>
 							</div>
 						</div>
@@ -334,12 +330,12 @@
 					<div class="wrap-content-slide3 p-b-50 p-t-50">
 						<div class="container">
 							<!--<div class="pic-review size14 bo4 wrap-cir-pic m-l-r-auto animated visible-false" data-appear="zoomIn">
-								<img src="images/avatar-05.jpg" alt="IGM-AVATAR">
+								<img src="images/avatar-01.jpg" alt="IGM-AVATAR">
 							</div>-->
 
 							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
 								<p class="t-center txt12 size15 m-l-r-auto">
-									“Vale a pena a visita: ambiente muito bonito, atendimento excelente e lanches muito gostosos!”
+									“Melhor hot-dog da cidade, vale a pena conferir. Um atendimento excelentemente, ambiente familiar, estilo americano, espaço muito bem organizado, o local tem o estacionamento amplo e bem organizado.”
 								</p>
 
 								<div class="star-review fs-18 color0 flex-c-m m-t-12">
@@ -351,7 +347,63 @@
 								</div>
 
 								<div class="more-review txt4 t-center animated visible-false m-t-32" data-appear="fadeInUp">
-                                    Carla Gonçalves @ Curitiba - <i>Avaliação do Google / Local Guide</i>
+                                    Peter Tourinho @ Curitiba - <i>Avaliação do Google / Local Guide</i>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="item-slick3 item4-slick3">
+					<div class="wrap-content-slide3 p-b-50 p-t-50">
+						<div class="container">
+							<!--<div class="pic-review size14 bo4 wrap-cir-pic m-l-r-auto animated visible-false" data-appear="zoomIn">
+								<img src="images/avatar-04.jpg" alt="IGM-AVATAR">
+							</div>-->
+
+							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
+								<p class="t-center txt12 size15 m-l-r-auto">
+									“O restaurante é bem grande, nos sentimos à vontade. O dog estava muito bom, o cheddar e o bacon na batatinha frita muito gostosos. A batatinha só é um pouco fininha para rústica e ela fica um pouco seca por causa disso, mas não perdeu no sabor.”
+								</p>
+
+								<div class="star-review fs-18 color0 flex-c-m m-t-12">
+									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+								</div>
+
+								<div class="more-review txt4 t-center animated visible-false m-t-32" data-appear="fadeInUp">
+                                    Taci Murmel @ Curitiba - <i>Avaliação do Google</i>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="item-slick3 item5-slick3">
+					<div class="wrap-content-slide3 p-b-50 p-t-50">
+						<div class="container">
+							<!--<div class="pic-review size14 bo4 wrap-cir-pic m-l-r-auto animated visible-false" data-appear="zoomIn">
+								<img src="images/avatar-05.jpg" alt="IGM-AVATAR">
+							</div>-->
+
+							<div class="content-review m-t-33 animated visible-false" data-appear="fadeInUp">
+								<p class="t-center txt12 size15 m-l-r-auto">
+									“Melhor cachorro quente! Entrega rápida, chega quentinho e caprichado. Sou cliente há anos e eles nunca decepcionam.”
+								</p>
+
+								<div class="star-review fs-18 color0 flex-c-m m-t-12">
+									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+									<i class="fa fa-star p-l-1" aria-hidden="true"></i>
+								</div>
+
+								<div class="more-review txt4 t-center animated visible-false m-t-32" data-appear="fadeInUp">
+                                    Jennifer Gonzaga @ Curitiba - <i>Avaliação do Google</i>
 								</div>
 							</div>
 						</div>
@@ -573,8 +625,13 @@
                     </div>
 
                     <div class="txt17 p-r-20 p-t-5 p-b-5">
-                        Copyright &copy; <span id="data"></span> - Todos direitos reservados | Desenvolvido por <a href="https://www.fesper.com.br" target="_blank">Fesper</a>
+                        Copyright &copy; <span id="data"></span> - Todos direitos reservados | Desenvolvido por <a href="https://www.fesper.com.br" target="_blank"><b>Fesper</b></a>
                     </div>
+
+                    <div class="txt17 p-r-20 p-t-5 p-b-5">
+                        
+                    </div>
+
                 </div>
             </div>
         </div>
