@@ -17,8 +17,8 @@
     </script>
     <meta charset="UTF-8">
     <meta name="description" content="Hamburgueria como um dos melhores hambúrgueres e dogs de Curitiba, localizada no bairro Cabral. Nossa missão é trazer a melhor experiência em lanches para nosso clientes.">
-    <meta name="keywords" content="Burger, dog, cachorro-quente, curitiba, cerveja, cabral, juvevê, melhor-hamburguer, hamburgueria">
-    <meta name="author" content="Fesper - Transformação Tecnológica">
+    <meta name="keywords" content="Burger, dog, cachorro-quente, curitiba, cerveja, chopp, chope, cabral, juvevê, melhor-hamburguer, hamburgueria">
+    <meta name="author" content="Fesper - Transformação Digital">
     <meta name="viewport" content="width=device-width, initial-scale=1">
    
     
@@ -193,8 +193,8 @@
 
                         <div class="wrap-btn-slide1 animated visible-false" data-appear="rotateIn">
                             <!-- Button1 -->
-                            <a href="#cardapio" class="btn1 flex-c-m size1 txt3 trans-0-4">
-                                Cardápio
+                            <a href="#cardapio" class="btn2 flex-c-m size1 txt3 trans-0-4">
+                                NOSSO CARDÁPIO
                             </a>
                         </div>
                     </div>
@@ -236,7 +236,7 @@
 
                 <div class="col-md-6 p-b-30">
                     <div class="wrap-pic-welcome size3 bo-rad-10 hov-img-zoom m-l-r-auto">
-                        <img src="images/img/hamburger.jpg" alt="IMG-OUR">
+                        <img src="images/img/hamburger.jpg" alt="hamburger">
                     </div>
                 </div>
             </div>
@@ -250,7 +250,7 @@
         <!-- Main menu -->
         <div class="flipbook-viewport">
 	
-        <iframe class="w-100" height="600px" src="https://osparcas.com/magazine/slider.html" title="W3Schools Free Online Web Tutorials"></iframe>
+        <iframe class="w-100" height="600px" src="https://osparcas.com/magazine/slider.html" title=""></iframe>
 
     </section>
 
@@ -579,35 +579,35 @@
 
                     <!-- Gallery footer -->
                     <div class="wrap-gallery-footer flex-w">
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/01chopp-071220.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/01chopp-071220.jpg" alt="espaço-os-parcas-dog">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/osparcas-120321-6.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/osparcas-120321-6.jpg" alt="espaço-os-parcas-dog">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/02batata-071220.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/02batata-071220.jpg" alt="espaço-os-parcas-burger">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/osparcas-120321-10.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/osparcas-120321-10.jpg" alt="burger-os-parcas-burger">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/03chopp-071220.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/03chopp-071220.jpg" alt="espaço-os-parcas-beer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/osparcas-120321-14.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/osparcas-120321-14.jpg" alt="espaço-os-parcas-beer">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/04salao-071220.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/04salao-071220.jpg" alt="espaço-os-parcas-dog">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/osparcas-120321-17.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/osparcas-120321-17.jpg" alt="burger-os-parcas-dog">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/05decor-071220.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/05decor-071220.jpg" alt="espaço-os-parcas-burguer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/osparcas-120321-19.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/osparcas-120321-19.jpg" alt="burger-os-parcas-burguer">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/06chopp-071220.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/06chopp-071220.jpg" alt="espaço-os-parcas-chopp">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/osparcas-120321-21.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/osparcas-120321-21.jpg" alt="burger-os-parcas-chopp">
                         </a>
 
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/07chopp-071220.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/07chopp-071220.jpg" alt="espaço-os-parcas-longneck">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/osparcas-120321-23.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/osparcas-120321-23.jpg" alt="espaço-os-parcas-longneck">
                         </a>
-                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/08wall-071220.jpg" data-lightbox="gallery-footer">
-                            <img src="images/img-espaco/08wall-071220.jpg" alt="espaço-os-parcas-hamburguer">
+                        <a class="item-gallery-footer wrap-pic-w" href="images/img-espaco/osparcas-120321-31.jpg" data-lightbox="gallery-footer">
+                            <img src="images/img-espaco/osparcas-120321-31.jpg" alt="batata-frita-os-parcas-hamburguer">
                         </a>
                     </div>
 
