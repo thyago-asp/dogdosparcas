@@ -223,12 +223,13 @@
 
                         <h5 class="tit2 t-center">Missão</h5>
                         <p class="t-center m-b-22 size3 m-l-r-auto">
-                            Trazer a melhor experiência em lanches para nosso clientes.</p>
+                            Trazer a melhor experiência em lanches para os nossos clientes.</p>
                         <h5 class="tit2 t-center">Visão</h5>
-                        <p class="t-center m-b-22 size3 m-l-r-auto">Conquistar individualmente cada pessoa com o melhor lanche e o melhor atendimento.</p>
+                        <p class="t-center m-b-22 size3 m-l-r-auto">
+                        Conquistar individualmente cada pessoa com o melhor lanche e o melhor atendimento.</p>
                         <h5 class="tit2 t-center">Valores</h5>
-                        <p class="t-center m-b-22 size3 m-l-r-auto">Conquistar individualmente cada pessoa com o melhor lanche e o melhor atendimento.
-                            <br>Compromisso em qualidade e rapidez no serviço.
+                        <p class="t-center m-b-22 size3 m-l-r-auto">
+                        Compromisso em qualidade e rapidez no serviço.
                         </p>
 
                     </div>
